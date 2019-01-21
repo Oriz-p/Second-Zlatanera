@@ -245,6 +245,11 @@ body{
         margin-right:10px;
         
     }
+    .header-page > img{
+        background-size: cover;
+        width:100%;
+    }
+
 }
 
 .landing-page{
