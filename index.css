@@ -272,6 +272,16 @@ body{
 .landing-page > div > img{
     border-radius: 5px 5px 0 0px;
 }
+@media screen and (max-width:399px){
+.landing-page > div > img{
+    max-width:320px;
+    max-height:350px;
+}
+
+.landing-page > div{
+    width:320px;
+}
+}
 .landing-page > div >h2, h4,p{
     padding:0 30px;
     line-height:1.3rem;   
