@@ -280,6 +280,7 @@ body{
 
 .landing-page > div{
     width:320px;
+    margin:0 auto;
 }
 }
 .landing-page > div >h2, h4,p{
