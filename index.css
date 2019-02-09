@@ -283,6 +283,13 @@ body{
     margin:0 auto;
 }
 }
+
+@media screen and (max-width:375px){
+ .landing-page > div{
+     margin:0 20px;
+ }
+}
+
 .landing-page > div >h2, h4,p{
     padding:0 30px;
     line-height:1.3rem;   
